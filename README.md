@@ -25,8 +25,9 @@ A discord bot with music & other features
     - Windows [Download](https://download.java.net/openjdk/jdk13/ri/openjdk-13+33_windows-x64_bin.zip)
   
 - Python
-    - Windows [Download](https://www.python.org/downloads/windows/)
     - Linux [Download](https://www.python.org/downloads/source/)
+    - Windows [Download](https://www.python.org/downloads/windows/)
+    
 
 
 ## Commands
