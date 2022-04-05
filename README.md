@@ -23,6 +23,10 @@ A discord bot with music & other features
 - Java 13 
     - Linux [Download](https://download.java.net/openjdk/jdk13/ri/openjdk-13+33_linux-x64_bin.tar.gz)
     - Windows [Download](https://download.java.net/openjdk/jdk13/ri/openjdk-13+33_windows-x64_bin.zip)
+  
+- Python
+    - Windows [Download](https://www.python.org/downloads/windows/)
+    - Linux [Download](https://www.python.org/downloads/source/)
 
 
 ## Commands
